@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>华丽的冒险</string>
+		<key>singer</key>
+		<string>陈绮贞</string>
+		<key>poster</key>
+		<string>https://img3.doubanio.com/mpic/s1441645.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>后青春期的诗</string>
+		<key>singer</key>
+		<string>五月天</string>
+		<key>poster</key>
+		<string>https://img1.doubanio.com/mpic/s3316597.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Viva La Vida</string>
+		<key>singer</key>
+		<string>Coldplay</string>
+		<key>poster</key>
+		<string>https://img1.doubanio.com/mpic/s3054604.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>We Sing.We Dance.We Steal Things.</string>
+		<key>singer</key>
+		<string>Jason Mraz</string>
+		<key>poster</key>
+		<string>https://img1.doubanio.com/mpic/s2967252.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>是时候</string>
+		<key>singer</key>
+		<string>孙燕姿</string>
+		<key>poster</key>
+		<string>https://img1.doubanio.com/mpic/s4653287.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lenka</string>
+		<key>singer</key>
+		<string>Lenka</string>
+		<key>poster</key>
+		<string>https://img1.doubanio.com/mpic/s3259484.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Start from Here</string>
+		<key>singer</key>
+		<string>王若琳</string>
+		<key>poster</key>
+		<string>https://img1.doubanio.com/mpic/s2874587.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>旅行的意义</string>
+		<key>singer</key>
+		<string>陈绮贞</string>
+		<key>poster</key>
+		<string>https://img1.doubanio.com/mpic/s1430722.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>太阳</string>
+		<key>singer</key>
+		<string>陈绮贞</string>
+		<key>poster</key>
+		<string>https://img1.doubanio.com/mpic/s3510113.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Once</string>
+		<key>singer</key>
+		<string>Once电影原声</string>
+		<key>poster</key>
+		<string>https://img3.doubanio.com/mpic/s2821080.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Not Going Anywhere</string>
+		<key>singer</key>
+		<string>Keren Ann</string>
+		<key>poster</key>
+		<string>https://img1.doubanio.com/mpic/s1431228.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>OK</string>
+		<key>singer</key>
+		<string>张震岳</string>
+		<key>poster</key>
+		<string>https://img1.doubanio.com/mpic/s2591057.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>无与伦比的美丽</string>
+		<key>singer</key>
+		<string>苏打绿</string>
+		<key>poster</key>
+		<string>https://img1.doubanio.com/mpic/s2757483.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>亲爱的...我还不知道</string>
+		<key>singer</key>
+		<string>张悬</string>
+		<key>poster</key>
+		<string>https://img3.doubanio.com/mpic/s2604331.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>21</string>
+		<key>singer</key>
+		<string>Adele</string>
+		<key>poster</key>
+		<string>https://img3.doubanio.com/mpic/s4527315.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>American Idiot</string>
+		<key>singer</key>
+		<string>Green Day</string>
+		<key>poster</key>
+		<string>https://img1.doubanio.com/mpic/s1485602.jpg</string>
+	</dict>
+</array>
+</plist>
